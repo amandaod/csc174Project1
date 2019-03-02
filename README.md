@@ -1,10 +1,8 @@
-# Overall:
+# In-Class Assignment 6 
+## Amanda O'Donnell
 
--   **domain**: Visual entertainment, programming languages, and cats are all things that people can interact with in their spare time. Whether that be watching something, writing your own code, or petting a feline friend, there's something here for everyone.
--   **ontology** 
-		- All of these are things people interact with in their spare time.
-		- Each of these has three sections, each giving an overview with one paragraph.
-		- Each of the talks about the history of the topics.
-		- Each of these talks about present uses and impacts of the topic.
--   **taxonomy**: See headings below. Three headings for each topic.
--   **choreography**: Three page website, with the current content.
+### Typography
+To improve the typography, I chose a typeface more relevant to the page's content.  As the page is about programming languages, I chose the font Inconsolata, which was designed to be a good font for printing code.  I used this for headings and small pieces of texts and paired it with the typeface Noto Sans (which is more legible) for the paragraphs.
+
+### Readability
+To improve readability, I made the headings stand out more by putting them in their own column along the left.  This makes it easier to scan the text for these headings and find what each section is about.  I also increased the amount of space above each heading and paragraph so that each section of content (a paragraph and its descriptive heading) is more distinct.
