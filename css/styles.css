@@ -24,6 +24,7 @@ body{
 
 header a{
     grid-column: 1/2;
+    grid-row: 1/2;
 }
 
 header a, nav a{
@@ -42,15 +43,20 @@ header a{
 
 main{
     grid-column: 1/4;
+    display: grid;
 }
 
 h1{
     font-family: 'Staatliches', sans-serif;
     font-size: 38px;
+    grid-column: 1/4;
+    margin-top: 20px;
 }
 
 h2{
     font-family: 'Staatliches', sans-serif;
+    grid-column: 1/4;
+    margin-top: 20px;
 }
 
 aside{
@@ -85,8 +91,10 @@ footer{
 
 nav{
     text-align: center;
-    grid-column: 1/4;
+    grid-column: 3/4;
     margin-bottom: 20px;
+    grid-row: 1/2;
+    margin: 30px;
 }
 
 nav ul{
@@ -109,4 +117,10 @@ nav li{
 
 nav a{
     padding: 0;
+}
+
+p {
+    grid-column: 2/4;
+    margin-left: 30px;
+    margin-top: 20px;
 }

@@ -3,12 +3,6 @@
 <?php include "inc/nav.inc"; ?>
 
 <main>
-	
-	<!-- <h2>Programming Languages</h2>
-
-	<p>
-		C, Python, and Java are programming languages have allowed for revolutionary developments in the programming field. Programming in general is beginning to become more prominent in society and these are the three languages that tend to be most common and the ones that people tend to learn first. C has been around since 1972 and was designed by Dennis Ritchie, Python has been around since 1990 and was designed by Guido van Rossum, and Java has been around since 1995 and was designed by James Gosling.
-	</p> -->
 
 	<h2>C</h2>
 

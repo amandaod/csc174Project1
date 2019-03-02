@@ -11,5 +11,5 @@
 <div class="container">
 
 <header>
-	<h1>Spare-time activities</h1>
+	<h1>Programming Languages</h1>
 </header>
